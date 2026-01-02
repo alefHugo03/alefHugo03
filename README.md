@@ -1,14 +1,14 @@
-# Olá, eu sou o Alef Hugo! 👋
+# Hi There! 👋
 
-Sou um entusiasta da tecnologia focado no desenvolvimento de projetos em linguagens variadas. Gosto de transformar ideias em código e investir tempo aprendendo novas ferramentas.
+I'm a tech enthusiast focused on developing projects using various languages. I love turning ideas into code and dedicating time to mastering new tools.
 
-- 🔭 **Atualmente estou trabalhando em:** Projetos de automação e Web.
-- 🌱 **Atualmente aprendendo:** Aprofundando conhecimentos em arquitetura de software.
-- 💡 **Interesses:** Desenvolvimento Web, Python e novas ideias de investimento tech.
+- 🔭 **Currently working on:** Automation and Web projects.
+- 🌱 **Currently learning:** Deepening my knowledge in Software Architecture.
+- 💡 **Interests:** Web Development, Python, and new tech investment ideas.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -17,16 +17,6 @@ Sou um entusiasta da tecnologia focado no desenvolvimento de projetos em linguag
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefHugo03&show_icons=true&theme=dracula"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefHugo03&layout=compact&theme=dracula"/>
-</div>
-
----
-
-### 📫 Vamos nos conectar?
+### 📫 Let's connect?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefhugo27)
